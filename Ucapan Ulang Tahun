@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Selamat ulang tahun</title>
+    <style>body{background-color: #f0f0f0;/*Warna latar belakang*/font-family:'Lucida Sans', 'sans-serif';/*font yang digunakan*/text-align: center;/*Teks di tengah*/}
+    .container{background-color: #fff;/*Warna latar belakang kotak*/margin:50px auto;/*Jarak kotak dari atas dan tengah*/padding:30px;/*Jarak konten tepi kotak*/border-radius: 10px;/*Sudut kotak dibulatkan*/box-shadow:0px 0px 10px rgba(0, 0, 0, 0.2);/*Bayangan pada kotak*/}  
+    img{max-width: 100%;/*Gambar menyesuaikan lebar kotak*/border-radius: 10px;/*Sudut gambar dibulatkan*/}  
+.button{background-color: #ff69b4;/*Warna tombol*/color: #fff;/*Warna teks tombol*/padding: 15px 30px;/*Jarak teks dari tepi tombol*/border: none;/*Menghilang garis tepi*/border-radius: 5px;/*Sudut tombol dibulatkan*/font-size: 16px;/*Ukuran font tombol*/cursor: pointer;/*Tampilan mouse saat diatas tombol*/transition: background-color 0.3s ease;/*Efek transisi warna saat tombol di hover*/}  
+.button:hover{background-repeat: #ff4d94;/*Warna tombol saat di hover*/}</style>
+</head>
+<body>
+<div class="container">
+<h1>Selamat Ulang Tahun rahiyang!!</h1>
+<p>semoga panjang umur dan sehat selau yahh...semoga tercapai semua angan dan cita-citamu iyang....dan bahagia selalu yah!!</p>
+<img src="https://images.app.goo.gl/5HwxpPbigwKFLbLv8"alt="Gambar">
+<button class="button">Happy Birthday!</button>
+</div>
+</body>
+</html>
